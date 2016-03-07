@@ -6,6 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+  - enabled: 1
     path: Assets/Scenes/Approach counter 2.unity
   - enabled: 1
     path: Assets/Scenes/Approach counter.unity
@@ -73,8 +75,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Template.unity
   - enabled: 1
     path: Assets/Scenes/Tie.unity
-  - enabled: 1
-    path: Assets/Scenes/Title Screen.unity
   - enabled: 1
     path: Assets/Scenes/Visor.unity
   - enabled: 1
