@@ -6,6 +6,82 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Approach counter 2.unity
+  - enabled: 1
+    path: Assets/Scenes/Approach counter.unity
+  - enabled: 1
+    path: Assets/Scenes/Busted.unity
+  - enabled: 1
+    path: Assets/Scenes/Car.unity
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+  - enabled: 1
+    path: Assets/Scenes/Debate 2.unity
+  - enabled: 1
+    path: Assets/Scenes/Debate.unity
+  - enabled: 1
+    path: Assets/Scenes/Door.unity
+  - enabled: 1
+    path: Assets/Scenes/Enter Door.unity
+  - enabled: 1
+    path: Assets/Scenes/Follow.unity
+  - enabled: 1
+    path: Assets/Scenes/Foot.unity
+  - enabled: 1
+    path: Assets/Scenes/Glove.unity
+  - enabled: 1
+    path: Assets/Scenes/Grab & run.unity
+  - enabled: 1
+    path: Assets/Scenes/Hide.unity
+  - enabled: 1
+    path: Assets/Scenes/Hot Wire.unity
+  - enabled: 1
+    path: Assets/Scenes/Im out.unity
+  - enabled: 1
+    path: Assets/Scenes/Keep Focused.unity
+  - enabled: 1
+    path: Assets/Scenes/Keep Running.unity
+  - enabled: 1
+    path: Assets/Scenes/Lets do this.unity
+  - enabled: 1
+    path: Assets/Scenes/Next 2.unity
+  - enabled: 1
+    path: Assets/Scenes/Next.unity
+  - enabled: 1
+    path: Assets/Scenes/NVM 2.unity
+  - enabled: 1
+    path: Assets/Scenes/NVM.unity
+  - enabled: 1
+    path: Assets/Scenes/Oppen Door.unity
+  - enabled: 1
     path: Assets/Scenes/PageOne.unity
   - enabled: 1
+    path: Assets/Scenes/Pull Triger.unity
+  - enabled: 1
+    path: Assets/Scenes/Remain Standing.unity
+  - enabled: 1
+    path: Assets/Scenes/Say Sorry.unity
+  - enabled: 1
+    path: Assets/Scenes/Shoot.unity
+  - enabled: 1
+    path: Assets/Scenes/Sit Down.unity
+  - enabled: 1
+    path: Assets/Scenes/Take all your cash 2.unity
+  - enabled: 1
+    path: Assets/Scenes/Take all your cash.unity
+  - enabled: 1
+    path: Assets/Scenes/Template.unity
+  - enabled: 1
+    path: Assets/Scenes/Tie.unity
+  - enabled: 1
     path: Assets/Scenes/Title Screen.unity
+  - enabled: 1
+    path: Assets/Scenes/Visor.unity
+  - enabled: 1
+    path: Assets/Scenes/Wait 2.unity
+  - enabled: 1
+    path: Assets/Scenes/Wait 3.unity
+  - enabled: 1
+    path: Assets/Scenes/Wait.unity
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
